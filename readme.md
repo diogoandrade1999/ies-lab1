@@ -20,6 +20,7 @@ $ git add .
 $ git commit -m "Initial commit"
 
 $ git push -u origin master
+
 -------------------------------------------------
 ## List Docker CLI commands
 docker
