@@ -10,11 +10,16 @@ Existem três principais Ciclos de Vida de Construção integrados :
 	local
 ------------------------------------------------
 https://github.com/diogoandrade1999/ies-lab1
- \n$ git init
- \n$ git remote add origin git@gitlab.com:diogoandrade1999/ies-lab1.git
- \n$ git add .
- \n$ git commit -m "Initial commit"
- \n$ git push -u origin master
+
+$ git init
+
+$ git remote add origin git@gitlab.com:diogoandrade1999/ies-lab1.git
+
+$ git add .
+
+$ git commit -m "Initial commit"
+
+$ git push -u origin master
 -------------------------------------------------
 ## List Docker CLI commands
 docker
